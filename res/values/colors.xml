@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 应用主题色 -->
+    <color name="background">#ffffffff</color>
+    
+    <!-- 常用色 -->
+    <color name="fenhongseziti">#ffff648f</color>
+    <color name="black">#ff000000</color>
+    <color name="white">#ffffffff</color>
+    <!-- 透明 -->
+    <color name="transparent">#00000000</color>
+
+    
+    
+    <!-- 自定义颜色 -->
+    <color name="m29c741">#29c741</color>
+    <color name="m146621">#146621</color>
+    <color name="mc8c8c8">#c8c8c8</color>
+    
+    <!-- 默认按钮背景色 -->
+    <color name="color_pressed">#9c000000</color>
+    <color name="color_disabled">#9c00ff00</color>
+
+</resources>

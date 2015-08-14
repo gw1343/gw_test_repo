@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="UIButton">
+        <attr name="color_pressed" format="color"/>
+        <attr name="color_unpressed" format="color"/>
+        <attr name="color_disabled" format="color"/>
+        <attr name="radius" format="dimension"/>
+        <attr name="shape_type" format="enum">
+            <enum name="round" value="0"/>
+            <enum name="rectangle" value="1"/>
+        </attr>
+    </declare-styleable>
+</resources>
